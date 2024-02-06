@@ -51,60 +51,15 @@ Amplifier and detector block:
 Decoding block:
 - Convert command code from binary number to corresponding decimal number
 
-### CorrelationMatrix
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Correlation%20Matrix/Correlation_Matrix.png" width=570>
+### NEC PROTOCOL
+A protocol that uses pulse distance coding
+The two logic levels 0 and 1 in the NEC protocol are defined as:
+Logic level 1: is a HIGH pulse with a period of 562.5𝜇𝑠 and a LOW level with a period of 1687𝜇𝑠
+Logic level 0: is a HIGH pulse with a period of 562.5𝜇𝑠 and a LOW level with a period of 562.5𝜇𝑠
 
+### Design control circuit on ALTIUM
 
-
-
-
-
-
-###  Model Evaluation 
-- RandomForestClassifier
-
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/RandomForestClassifier.png" width=370>
-
-                     precision    recall   f1-score   support
-
-    Not Diabetic         0.79      0.79      0.79        99
-    Diabetic             0.62      0.62      0.62        55
-           
-    accuracy                                 0.73       154
-    macro avg            0.70      0.70      0.70       154
-    weighted avg         0.73      0.73      0.73       154
-
-
-- Support Vector Machine
-
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/SVC.png" width=370>
-
-
-
-                 precision    recall  f1-score   support
-
-    Not Diabetic     0.77      0.82      0.79        99
-    Diabetic         0.63      0.56      0.60        55
-
-    accuracy                             0.73       154
-    macro avg        0.70      0.69      0.70       154
-    weighted avg     0.72      0.73      0.72       154
-
-
-- KNeighborsClassifier 
-
-<img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Model%20Evaluation/KNeighborsClassifier.png" width=370>
-
-                 precision    recall   f1-score   support
-
-    Not Diabetic     0.76      0.80      0.78        99
-    Diabetic         0.60      0.55      0.57        55
-
-    accuracy                             0.71       154
-    macro avg        0.68      0.67      0.67       154
-    weighted avg     0.70      0.71      0.70       154
-
-
+<img src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Design%20a%20control%20circuit%20on%20Altium.png" width="200">
 
 
 
