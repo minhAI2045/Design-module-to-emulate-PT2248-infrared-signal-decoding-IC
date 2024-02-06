@@ -26,14 +26,10 @@ IC PT2248 is an infrared transmitter using CMOS technology, the power supply vol
 <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/IC%20PT2248%20pinout.png" width=370>
 
 
-### Learning Objective
-The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)  
-- Data gathering 
-- Descriptive Analysis 
-- Data Visualizations 
-- Data Preprocessing 
-- Data Modelling 
-- Model Evaluation 
+### Functional block diagram
+<img target="_blank" src="
+https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Function_diagram.png" width=370>
+
 
 
 ### Data Visualizations
