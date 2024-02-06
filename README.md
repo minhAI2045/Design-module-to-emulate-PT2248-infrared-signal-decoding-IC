@@ -27,7 +27,7 @@ IC PT2248 is an infrared transmitter using CMOS technology, the power supply vol
 
 
 ### Functional block diagram
-<img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Function_diagram.png" width=370>
+<img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Function_diagram.png" width=670>
 
 
 
