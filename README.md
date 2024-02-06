@@ -4,10 +4,13 @@
 ### Table of Content
   * [Overview](#overview)
   * [IC PT2248](#IC-PT2248)
-  * [Learning Objective](#Learning-Objective)
-  * [Data Visualizations](#Data-Visualizations)
-  * [CorrelationMatrix](#CorrelationMatrix)
-  * [Model Evaluation](#Model-Evaluation)
+  * [Functional block diagram](#Functional-block-diagram)
+  * [Broadcast principle](#Broadcast-principle)
+  * [Revenue principles](#Revenue-principles)
+  * [NEC PROTOCOL](#NEC-PROTOCOL)
+  * [Design control circuit on ALTIUM](#Design-control-circuit-on-ALTIUM)
+  * [Design receiver circuit on Altium](#Design-receiver-circuit-on-Altium)
+  * [Result](#Result)
   
 
 
