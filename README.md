@@ -31,12 +31,21 @@ IC PT2248 is an infrared transmitter using CMOS technology, the power supply vol
 
 
 
-### Data Visualizations
-- Histogram
-![alt text](<https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Data%20Visualization/Histogram.png>)
-- Density plot
-![alt text](<https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Data%20Visualization/Density_pilot.png>)
-- Looking at the graphs, we see that "Glucose", "Blood Pressure", "BMI" have a normal distribution; "Tricep skin" exponential distribution
+#### Broadcast principle
+Function blocks and decoding blocks:
+- Converts the control signal into the corresponding binary number in the form of a digital signal command code
+Modulation block:
+- Pair the command code into the carrier with frequency from 38KHz - 100KHz
+- Helps increase transmission distance
+Transmitter block:
+- It is an infrared LED
+#### Revenue principles
+Receiver block:
+- The infrared rays from the emitter are received by the photodiode
+Amplifier and splitter block:
+- Amplify the received signal and then pass it through the parallel separation circuit to eliminate the carrier waves and extract the necessary data, which is the command code
+Decoding block:
+- Convert command code from binary number to corresponding decimal number
 
 
 ### CorrelationMatrix
