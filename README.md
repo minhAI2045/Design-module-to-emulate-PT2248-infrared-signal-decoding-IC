@@ -74,8 +74,8 @@ Logic level 0: is a HIGH pulse with a period of 562.5𝜇𝑠 and a LOW level wi
 
 ### Result 
 <p align="left">
-      <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Hex%20code.png" width=370>
-      <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Hex_code.png" width=270>
+      <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Hex%20code.png" width=270>
+      <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Hex_code.png" width=370>
       
       
 
