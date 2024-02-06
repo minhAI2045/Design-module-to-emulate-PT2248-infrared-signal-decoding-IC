@@ -62,7 +62,7 @@ Logic level 0: is a HIGH pulse with a period of 562.5𝜇𝑠 and a LOW level wi
 <p align="left">
 
    <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Design%20a%20control%20circuit%20on%20Altium.png" width=470>
-   <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Control%20circiut%20on%20Altium.png" width=370>
+   <img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/Control%20circiut%20on%20Altium.png" width=270>
   
    
 
