@@ -32,13 +32,15 @@ IC PT2248 is an infrared transmitter using CMOS technology, the power supply vol
 
 
 #### Broadcast principle
-Function blocks and decoding blocks:
+Function block and coding block:
 - Converts the control signal into the corresponding binary number in the form of a digital signal command code
+
 Modulation block:
 - Pair the command code into the carrier with frequency from 38KHz - 100KHz
 - Helps increase transmission distance
+
 Transmitter block:
-- It is an infrared LED
+It is an infrared LED
 #### Revenue principles
 Receiver block:
 - The infrared rays from the emitter are received by the photodiode
