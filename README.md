@@ -23,7 +23,7 @@ Infrared light:
 
 IC PT2248 is an infrared transmitter using CMOS technology, the power supply voltage range is 2.2V~5V. Because it uses CMOS technology to manufacture, the power consumption is extremely low. It can hold down multiple keys at the same time (up to 6 keys), with very few external components.
 
-![alt text](<https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/IC%20PT2248%20pinout.png>)
+<img target="_blank" src="https://github.com/minhAI2045/Design-module-to-emulate-PT2248-infrared-signal-decoding-IC/blob/main/Resource/IC%20PT2248%20pinout.png" width=570>
 
 
 ### Learning Objective
