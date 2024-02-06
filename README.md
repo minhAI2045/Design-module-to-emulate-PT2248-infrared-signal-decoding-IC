@@ -40,15 +40,16 @@ Modulation block:
 - Helps increase transmission distance
 
 Transmitter block:
-It is an infrared LED
+- It is an infrared LED
 #### Revenue principles
 Receiver block:
 - The infrared rays from the emitter are received by the photodiode
-Amplifier and splitter block:
+
+Amplifier and detector block:
 - Amplify the received signal and then pass it through the parallel separation circuit to eliminate the carrier waves and extract the necessary data, which is the command code
+
 Decoding block:
 - Convert command code from binary number to corresponding decimal number
-
 
 ### CorrelationMatrix
 <img target="_blank" src="https://github.com/minhAI2045/Predicting-diabetes1/blob/main/Correlation%20Matrix/Correlation_Matrix.png" width=570>
