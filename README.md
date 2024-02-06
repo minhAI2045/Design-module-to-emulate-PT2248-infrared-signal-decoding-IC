@@ -3,7 +3,7 @@
 
 ### Table of Content
   * [Overview](#overview)
-  * [Motivation](#motivation)
+  * [IC PT2248](#IC-PT2248)
   * [Learning Objective](#Learning-Objective)
   * [Data Visualizations](#Data-Visualizations)
   * [CorrelationMatrix](#CorrelationMatrix)
