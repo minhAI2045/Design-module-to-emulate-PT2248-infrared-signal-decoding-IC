@@ -1,3 +1,4 @@
+
 ## Design module to emulate PT2248 infrared signal decoding IC
 
 
